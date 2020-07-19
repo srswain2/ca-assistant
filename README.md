@@ -1,2 +1,2 @@
-# ca-assitant
-A demo project for CA automation
+# CA Assitant
+A demo project for CA Automation.
